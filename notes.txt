@@ -1,0 +1,5 @@
+
+1. Virtual DOM => better performance (JS keeps reference to each virtual DOM; no need to search through all the DOM tree)
+2. Data binding (auto-re-render)
+3. Diff algorithm
+4. Re-usable!!!
